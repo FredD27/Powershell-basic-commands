@@ -9,7 +9,7 @@ Get-Command -Verb Get
 
 cp => Copy  
 rm => Remove  
-cd => Set-Location 
+cd => Set-Location   
 mkdir => New-Item    
 man => Get-Help  
 history => Get-History  
