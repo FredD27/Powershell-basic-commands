@@ -10,7 +10,7 @@ Get-Command -Verb Get
 cp => Copy  
 rm => Remove  
 cd => Set-Location 
-mkdir => New-Item  
+mkdir => New-Item    
 man => Get-Help  
 history => Get-History  
 alias => Get-Alias  
